@@ -3,12 +3,30 @@
 <h2>Welcome to my GitHub playground! </h2>
 
 
-- 🌱 I’m currently learning **Java, Flutter**
-- ⚡Turning bugs into features and no-scoping errors.
+ 🌱 I’m currently learning **Java, Flutter** <br>
+ ⚡Turning bugs into features and no-scoping errors.
 
+<table>
+ <tr>
+ <td>
+   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tasheera&theme=dark&hide_border=false" /> 
+   
+ </td>
+
+  <td>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tasheera&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+ </td>
+ </tr>
+
+ <td>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tasheera&theme=dark&show_icons=true&count_private=true" />
+ </td>
+</table>
+
+<br>
 <div align="center">
 
-<h3>Languages and Tools:</h3>
+<h2>Languages and Tools:</h2>
 
 <table>
 <th>
@@ -33,6 +51,5 @@
   
   <br>
 
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tasheera&theme=dark&hide_border=false" /> 
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tasheera&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tasheera&theme=dark&show_icons=true&count_private=true" />
+ 
+
