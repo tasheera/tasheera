@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Tasheera Abhishek</h1>
-<h3>🚀 Passionate Software Engineer | Crafting the Future of Technology ✨</h3>
-<h2>Welcome to my GitHub playground! </h2>
 
+<h2>Welcome to my GitHub playground! </h2>
+<h3>🚀 Passionate Software Engineer | Crafting the Future of Technology ✨</h3>
 
  🌱 I’m currently learning **Java, Flutter** <br>
  ⚡Turning bugs into features and no-scoping errors.
