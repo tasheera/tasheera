@@ -3,11 +3,15 @@
 <h2>Welcome to my GitHub playground! </h2>
 <h3>🚀 Passionate Software Engineer | Crafting the Future of Technology ✨</h3>
 
+<a href="https://linkedin.com/in/tasheerasilva" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /> <br> <br>
+</a>
+
  🌱 I’m currently learning **Java, Flutter** <br>
  ⚡Turning bugs into features and no-scoping errors.
 
 <table>
- <tr>
+ <tr align = "center">
  <td>
    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tasheera&theme=dark&hide_border=false" /> 
    
@@ -18,9 +22,7 @@
  </td>
  </tr>
 
- <td>
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tasheera&theme=dark&show_icons=true&count_private=true" />
- </td>
+
 </table>
 
 <br>
